@@ -1,7 +1,7 @@
 # Jacinto Carbone — Mechatronics & Embedded Systems Developer
 
-[![Portfolio Website](https://img.shields.io/badge/Live_Portfolio-jacintocarbone.github.io-00f0ff?style=for-the-badge)](https://jacintocarbone.github.io)
-[![Download CV](https://img.shields.io/badge/Curriculum_Vitae-PDF-ffb800?style=for-the-badge)](https://jacintocarbone.github.io/CV_Jacinto_Carbone.pdf)
+[![Live Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-jacintocarbone.github.io-00f0ff?style=for-the-badge)](https://jacintocarbone.github.io)
+[![Curriculum Vitae](https://img.shields.io/badge/CURRICULUM_VITAE-PDF-ffb800?style=for-the-badge)](https://jacintocarbone.github.io/CV_Jacinto_Carbone.pdf)
 [![UTEC Mechatronics](https://img.shields.io/badge/UTEC-Mechatronics_Engineering-10b981?style=for-the-badge)](https://utec.edu.uy)
 
 > **"Where Low-Level Software Meets Physical Hardware."**  
@@ -13,9 +13,9 @@
 
 | Área | Tecnologías & Herramientas |
 | :--- | :--- |
-| **Embedded & Low-Level** | `C (C99 / avr-gcc)` • `Assembly` • `ATmega328P / Arduino` • `ISR Ring Buffers` • `Hardware Timers (CTC/PWM)` • `UART / I2C / SPI` |
-| **Software, Mobile & AI** | `Python 3` • `Kotlin (Jetpack Compose / Room SQLite)` • `Computer Vision (IA)` • `Resilient Web Scraping` • `Git` • `Linux` |
-| **Mecatrónica & Planta** | `Modelado CAD 3D (STEP/STL)` • `Impresión 3D / Manufactura Aditiva` • `Planos Técnicos & Eléctricos` • `Sensores & Actuadores` • `EHS` |
+| **Embedded & Low-Level** | `C (C99 / avr-gcc)` / `Assembly` / `ATmega328P / Arduino` / `ISR Ring Buffers` / `Hardware Timers (CTC/PWM)` / `UART / I2C / SPI` |
+| **Software, Mobile & AI** | `Python 3` / `Kotlin (Jetpack Compose / Room SQLite)` / `Computer Vision (IA)` / `Resilient Web Scraping` / `Git` / `Linux` |
+| **Mecatrónica & Planta** | `Modelado CAD 3D (STEP/STL)` / `Impresión 3D / Manufactura Aditiva` / `Planos Técnicos & Eléctricos` / `Sensores & Actuadores` / `EHS` |
 
 ---
 
